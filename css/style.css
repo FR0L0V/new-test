@@ -1,0 +1,9 @@
+#app table{
+	border-collapse:collapse;
+}
+#app th{
+	font-size:20px;
+	padding:5px 15px;
+	border:1px solid black;
+	
+}
